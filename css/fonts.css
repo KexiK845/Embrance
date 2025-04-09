@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'GeneralSans-Variable';
+  src: url('../fonts/GeneralSans-Variable.woff2') format('woff2'),
+    url('../fonts/GeneralSans-Variable.woff') format('woff'),
+    url('../fonts/GeneralSans-Variable.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica'), url('../fonts/Helvetica.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Helvetica'), url('../font/Helvetica-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Helvetica Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Helvetica Light'), url('../fonts/helvetica-light-587ebe5a59211.woff') format('woff');
+}
